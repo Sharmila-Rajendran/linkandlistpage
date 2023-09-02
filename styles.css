@@ -88,7 +88,7 @@ a{
 
 dd{
     font-size: 120%;
-    color: #FFCC33;
+    color: #000;
     border: 4px solid black;
     background-image: linear-gradient(to right top,white 1%,darkgrey 2%,transparent);
     background-color:transparent;
